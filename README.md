@@ -1,3 +1,3 @@
-# Проект «Escape Room»
+# Проект «Киноман»
 
-https://escape-room-nine-psi.vercel.app/
+https://lipatov1.github.io/cinemaddict/
